@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Header from './Header';
 import Sidebar from './Sidebar';
 import Dashboardcontent from './DashboardContent';
-import TimetableRescheduler from './TimetableRescheduler';
+import TimetableRescheduler from './TimeTableRescheduler';
 import Attendance from './Attendance';
 import FeeReconcile from './FeeReconcile'
 import TutorDashboard from './TutorDashboard'
